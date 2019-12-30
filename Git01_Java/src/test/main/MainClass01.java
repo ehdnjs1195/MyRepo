@@ -8,6 +8,6 @@ public class MainClass01 {
 		System.out.println("lab1 브렌치에서 작업함 2");
 		System.out.println("master 브랜치 Hello~");
 		System.out.println("lab1 브랜치에서 Hello~");
-
+		System.out.println("master 브랜치 Bye~");
 	}
 }
